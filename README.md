@@ -1,7 +1,5 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=sebiweise_nextjs-builderioframe&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=sebiweise_nextjs-builderioframe)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsebiweise%2Fnextjs-builderioframe&env=NEXT_PUBLIC_BUILDER_PUBLIC_KEY&project-name=builderioframe&repo-name=builderioframe)
-
 ## Getting Started
 
 First, run the development server:
@@ -33,4 +31,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsebiweise%2Fnextjs-builderioframe&env=NEXT_PUBLIC_BUILDER_PUBLIC_KEY&project-name=builderioframe&repo-name=builderioframe)
+
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Credits:
+<a href="https://www.buymeacoffee.com/sebiweise" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Us A Coffee" height="51px" width="217px" /></a>
