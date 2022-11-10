@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
-const withTM = require("next-transpile-modules")(["ui-react"]);
 
-module.exports = withTM({
+module.exports = {
   async redirects() {
     return [
       {
@@ -17,4 +16,4 @@ module.exports = withTM({
     minimumCacheTTL: 120,
     domains: ['media.graphcms.com']
   }
-});
+};
