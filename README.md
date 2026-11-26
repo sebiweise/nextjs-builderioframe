@@ -32,6 +32,3 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsebiweise%2Fnextjs-builderioframe&env=NEXT_PUBLIC_BUILDER_PUBLIC_KEY&project-name=builderioframe&repo-name=builderioframe)
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-## Credits:
-<a href="https://www.buymeacoffee.com/sebiweise" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Us A Coffee" height="51px" width="217px" /></a>
